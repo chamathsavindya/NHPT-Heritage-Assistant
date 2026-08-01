@@ -1,1 +1,16 @@
-
+tensorflow
+pillow
+matplotlib
+seaborn
+scikit-learn
+numpy
+jupyter
+nbformat
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
+langchain-chroma
+chromadb
+sentence-transformers
+streamlit
